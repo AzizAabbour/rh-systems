@@ -4,9 +4,9 @@ const AuthContext = createContext(null);
 
 const defaultUser = {
   id: 1,
-  firstName: 'Aziz',
-  lastName: 'Benali',
-  email: 'aziz.benali@rhtech.io',
+  firstName: 'ABDELAZIZ',
+  lastName: 'AABBOUR',
+  email: 'aabbourabdealziz@gmail.com',
   role: 'admin',
   position: 'Lead Frontend Developer',
   department: 'Frontend',
